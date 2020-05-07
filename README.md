@@ -1,13 +1,13 @@
 Leia-me
 
-Grupo independente de estudos de Inteligência Artificial da Pontifícia Universidade Católica de Minas Gerais.
+Biblioteca de métodos de Machine Learning.
 
-A intenção é desenvolver estudos e projetos variados no tema de IA.
+Aprendizado supervisionado, não supervisionado e Deep Learning.
 
 ----------------------------
 
 *Read me*
 
-A independent group of Artificial Intelligence studies from the Pontifical Catholic University of Minas Gerais.
+Machine Learning methods library.
 
-The intended purpose is to develop studies and varied projects on the topic of AI.
+Supervised and non-supervised learning and Deep Learning
