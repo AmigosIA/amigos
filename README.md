@@ -10,7 +10,7 @@ Supervised and non-supervised learning and Deep Learning
   
  
  
-## Project Management - Task List
+## Project Management
 The project is being managed on the ClickUp.
 
 The tool helps to pick up a new activity and associate it with tasks.
