@@ -6,7 +6,7 @@ Aprendizado supervisionado, não supervisionado e Deep Learning.
 
 
 # Machine Learning methods library
-Supervised and non-supervised learning and Deep Learning
+Supervised, non-supervised learning and Deep Learning
   
  
  
