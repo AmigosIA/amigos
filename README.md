@@ -1,13 +1,12 @@
-# Biblioteca de métodos de Machine Learning
+# Biblioteca de métodos para Machine Learning
 Aprendizado supervisionado, não supervisionado e Deep Learning.
-<break>
+
 ----------------------------
-<break>
+
 # Machine Learning methods library
 Supervised and non-supervised learning and Deep Learning
-<break>
   
-## Project Management
+## Project Management - Task List
 The project is being managed on the ClickUp. 
 The tool help the pick up of new activity and associate it with tasks.
 Follow this link below to view our tasks:
