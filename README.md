@@ -11,9 +11,7 @@ Supervised and non-supervised learning and Deep Learning
  
  
 ## Project Management
-The project is being managed on the ClickUp.
-
-The tool helps to pick up a new activity and associate it with tasks.
+The project is being managed on the ClickUp. The tool helps to pick up a new activity and associate it with tasks.
 
 Follow this link below to view our tasks:
 - https://app.clickup.com/3023282/v/f/3281405
