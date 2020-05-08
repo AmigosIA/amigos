@@ -1,14 +1,9 @@
 # Biblioteca de métodos de Machine Learning
-
-### Leia-me
-
 Aprendizado supervisionado, não supervisionado e Deep Learning.
 
 ----------------------------
 
 # Machine Learning methods library
-### Read me
-
 Supervised and non-supervised learning and Deep Learning
 
 Automatically associating Github activity in ClickUp 
