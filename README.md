@@ -18,8 +18,8 @@ Follow this link below to view our tasks:
 
 
 ### How to manage ClickUp with git commit
-It's simple.
 
+#### Command line
 Just add the ClickUp task ID in any part of the commit or pull request with a hashtag in front of it.
 ###### Example: 
 ```git
@@ -33,6 +33,7 @@ Just add the ClickUp task ID in any part of the commit or pull request with a ha
 3. Select a Branch
 4. Attach your commit
 5. Automatically change task Status via Github 
+
 
 
 #### You can also change the status of a task 
