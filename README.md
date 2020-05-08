@@ -1,17 +1,15 @@
 # Biblioteca de métodos de Machine Learning
 Aprendizado supervisionado, não supervisionado e Deep Learning.
-
+<break>
 ----------------------------
-
+<break>
 # Machine Learning methods library
 Supervised and non-supervised learning and Deep Learning
-
-Automatically associating Github activity in ClickUp 
-ClickUp will automatically pick up new activity and associate it with tasks. To enable this, you must: 
-
-
+<break>
+  
 ## Project Management
-The project is being managed on the ClickUp tool.
+The project is being managed on the ClickUp. 
+The tool help the pick up of new activity and associate it with tasks.
 Follow this link below to view our tasks:
 - https://app.clickup.com/3023282/v/f/3281405
 
